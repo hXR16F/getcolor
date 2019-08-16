@@ -54,7 +54,7 @@ for /f "tokens=1,2,3 delims=:" %%i in ('call getcolor.exe') do (
   echo %%j
   echo %%k
 )
-echo  Press any key to continue . . .
+echo Press any key to continue . . .
 pause >nul
 ```
 
