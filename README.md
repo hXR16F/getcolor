@@ -48,14 +48,12 @@ Code #3:
 setlocal EnableDelayedExpansion
 color 1f
 for /f "tokens=1,2,3 delims=:" %%i in ('call getcolor.exe') do (
-  echo.
-  echo  Code: %%i
+  echo %%i
   set cl=%%i
-  echo  Color only: !cl:~2,2!
-  echo  Background name: %%j
-  echo  Foreground name: %%k
+  echo !cl:~2,2!
+  echo %%j
+  echo %%k
 )
-echo.
 echo  Press any key to continue . . .
 pause >nul
 ```
