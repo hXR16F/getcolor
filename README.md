@@ -1,5 +1,5 @@
 # GetColor
-GetColor is a plugin for batch files. You can get current background and foreground color from active cmd window.
+GetColor is a plugin for batch files (and not only). You can get current background and foreground color from active cmd window.
 
 # Usage
 
