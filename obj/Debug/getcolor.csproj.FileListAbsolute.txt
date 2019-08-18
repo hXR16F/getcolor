@@ -1,7 +1,0 @@
-C:\Users\Admin\source\repos\getcolor\getcolor\bin\Debug\getcolor.exe.config
-C:\Users\Admin\source\repos\getcolor\getcolor\bin\Debug\getcolor.exe
-C:\Users\Admin\source\repos\getcolor\getcolor\bin\Debug\getcolor.pdb
-C:\Users\Admin\source\repos\getcolor\getcolor\obj\Debug\getcolor.csprojAssemblyReference.cache
-C:\Users\Admin\source\repos\getcolor\getcolor\obj\Debug\getcolor.csproj.CoreCompileInputs.cache
-C:\Users\Admin\source\repos\getcolor\getcolor\obj\Debug\getcolor.exe
-C:\Users\Admin\source\repos\getcolor\getcolor\obj\Debug\getcolor.pdb
